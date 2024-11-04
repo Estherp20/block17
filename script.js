@@ -65,4 +65,3 @@ class Numbers {
   console.log(n1.product()); //returns product of numbers
   console.log(n1.greaterThan(3)); //returns numbers greater than another number
   console.log(n1.howMany(3)); //return the count of a specific number
-  
